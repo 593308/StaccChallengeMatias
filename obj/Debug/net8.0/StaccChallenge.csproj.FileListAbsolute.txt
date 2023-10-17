@@ -75,3 +75,4 @@ C:\Users\mrakn\source\repos\StaccChallengeSolution\StaccChallenge\bin\Debug\net8
 C:\Users\mrakn\source\repos\StaccChallengeSolution\StaccChallenge\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\mrakn\source\repos\StaccChallengeSolution\StaccChallenge\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\mrakn\source\repos\StaccChallengeSolution\StaccChallenge\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mrakn\source\repos\StaccChallengeSolution\StaccChallenge\obj\Debug\net8.0\StaccChallenge.sourcelink.json

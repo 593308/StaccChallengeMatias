@@ -1,11 +1,10 @@
-﻿using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StaccChallenge.Dtos;
 
 namespace StaccChallenge.Controllers
 {
-    [Microsoft.AspNetCore.Components.Route("api/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class NotificationController : ControllerBase
     {
@@ -20,7 +19,7 @@ namespace StaccChallenge.Controllers
         /// Retrieves the notification of a user
         /// </summary>
         /// <param name="userId">userId for the user</param>
-        [HttpGet]
+        [HttpGet("{userId}")]
         public async Task<IActionResult> GetNotifications(int userId)
         {
             var notifications = await _context.Notifications

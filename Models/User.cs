@@ -24,10 +24,10 @@ namespace StaccChallenge.Models
         public UserRole Role { get; set; } // Role of the user (e.g., User, Admin).
 
         // Navigation properties for related entities.
-        public ICollection<Saving> Savings { get; set; }
-        public ICollection<FriendRequest> SentRequests { get; set; }
-        public ICollection<FriendRequest> ReceivedRequests { get; set; }
-        public ICollection<Friendship> Friendships { get; set; }
-        public ICollection<Notification> Notifications { get; set; }
+        public ICollection<Saving>? Savings { get; set; }
+        public ICollection<FriendRequest>? SentRequests { get; set; }
+        public ICollection<FriendRequest>? ReceivedRequests { get; set; }
+        public ICollection<Friendship>? Friendships { get; set; }
+        public ICollection<Notification>? Notifications { get; set; }
     }
 }

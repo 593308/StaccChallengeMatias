@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StaccChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f8f63ade8536f3f2de0aab376d46b095c57215f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StaccChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StaccChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
