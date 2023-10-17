@@ -1,5 +1,5 @@
 ## Task description
-For this project, I focused on creating a backend system to make the process of saving money more engaging and interactive for the users. The primary goal was to help users save money in a fun way. The backend includes functionality like:
+For this project, I focused on creating a backend system to make the process of saving money more engaging and interactive for the users. The primary goal was to help users save money in a fun way. The backend includes functionality like:  
 -Authentication (registration and login)  
 -Sending, accepting and declining friend requests  
 -Tracking individual savings and total savings.  
